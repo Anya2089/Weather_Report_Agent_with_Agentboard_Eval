@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "strands": {
+      "disabled": false,
+      "timeout": 60,
+      "type": "stdio",
+      "command": "uvx",
+      "args": [
+        "strands-agents-mcp-server"
+      ],
+      "autoApprove": []
+    }
+  }
+}
